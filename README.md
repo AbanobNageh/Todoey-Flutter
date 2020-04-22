@@ -1,4 +1,4 @@
-# Flash-Chat-Flutter
+# Todoey-Flutter
 
 A simple flutter application.
 The app Allows the user to add tasks and check them off or delete them.
